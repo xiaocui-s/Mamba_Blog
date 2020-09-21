@@ -9,6 +9,7 @@ class CategoryController extends Controller
 {
     protected $category;
 
+
     /**
      * CategoryController constructor.
      * @param CategoryRepositoryEloquent $category
